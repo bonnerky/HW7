@@ -1,2 +1,3 @@
 def leapyear(a):
-    pass
+    if a < 0:
+        return "error"
