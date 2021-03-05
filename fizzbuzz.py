@@ -1,2 +1,2 @@
-def fizzbuzz(a):
-    pass
+def fizzbuzz (a):
+        return str(a)
