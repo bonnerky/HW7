@@ -10,3 +10,8 @@ def fizzbuzz (a):
         return s
     else:
         return str(a)
+
+a = 1
+while a < 101:
+    print(fizzbuzz(a))
+    a += 1
